@@ -1,0 +1,23 @@
+{
+  "name": "sls-offline-timeout",
+  "version": "1.0.0",
+  "description": "Project for test",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marckaraujo/sls-offline-timeout.git"
+  },
+  "author": "Marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marckaraujo/sls-offline-timeout/issues"
+  },
+  "homepage": "https://github.com/marckaraujo/sls-offline-timeout#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "serverless-offline": "^3.9.0"
+  }
+}
